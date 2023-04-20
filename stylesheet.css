@@ -1,11 +1,11 @@
-body {
+.body {
     background-color: aqua;
     font-family: sans-serif;
     color: darkslategray;
 }
 
 
-.body {
+    .body {
     border: 300px;
     background-color: coral;
     height: 200px;
@@ -15,7 +15,7 @@ body {
     
 }
 
-.footer {
+    .footer {
     
     background-color: coral;
     text-align: center;
@@ -23,17 +23,17 @@ body {
     border: solid;
 }
 
-.bold {
+    .bold {
 
     font-weight: bolder;
 }
 
-.underline {
+    .underline {
     text-decoration: underline;
     text-align: left;
 }
 
-.nav {
+    .nav {
     text-align: right;
     padding: 10px;
     background-color: coral;
@@ -44,7 +44,7 @@ body {
     
 }
 
-.top {
+    .top {
     text-decoration: underline;
     text-align: center;
     
