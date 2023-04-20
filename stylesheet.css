@@ -1,52 +1,54 @@
+
+
 .body {
-    background-color: aqua;
-    font-family: sans-serif;
-    color: darkslategray;
+    background-color: aqua !important;
+    font-family: sans-serif !important;
+    color: darkslategray !important;
 }
 
 
     .body {
-    border: 300px;
-    background-color: coral;
-    height: 200px;
-    border-radius: 25px;
-    font-weight: bold;
-    border: solid;
+    border: 300px !important;
+    background-color: coral !important;
+    height: 200px !important;
+    border-radius: 25px !important;
+    font-weight: bold !important;
+    border: solid !important;
     
 }
 
     .footer {
     
-    background-color: coral;
-    text-align: center;
-    border-radius: 25px;
-    border: solid;
+    background-color: coral !important;
+    text-align: center !important;
+    border-radius: 25px !important;
+    border: solid !important;
 }
 
     .bold {
 
-    font-weight: bolder;
+    font-weight: bolder !important;
 }
 
     .underline {
-    text-decoration: underline;
-    text-align: left;
+    text-decoration: underline !important;
+    text-align: left !important;
 }
 
     .nav {
-    text-align: right;
-    padding: 10px;
-    background-color: coral;
-    border: 25px;
-    border-radius: 25px;
-    border: solid;
-    padding-bottom: 15px;
+    text-align: right !important;
+    padding: 10px !important;
+    background-color: coral !important;
+    border: 25px !important;
+    border-radius: 25px !important;
+    border: solid !important;
+    padding-bottom: 15px !important;
     
 }
 
     .top {
-    text-decoration: underline;
-    text-align: center;
+    text-decoration: underline !important;
+    text-align: center !important;
     
 }
 
